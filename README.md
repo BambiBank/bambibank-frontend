@@ -1,8 +1,8 @@
 # 🦌 Bambibank Frontend
 
 <p align="center">
-  <a href="https://bambibank-frontend-dex.vercel.app/">
-      <img src="https://bambibank-frontend-dex.vercel.app/" height="160">
+  <a href="https://bambibank-frontend-dex.vercel.app/logo.png">
+    <img src="https://bambibank-frontend-dex.vercel.app/logo.png" height="160">
   </a>
 </p>
 
